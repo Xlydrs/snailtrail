@@ -4,7 +4,6 @@
 /// @DnDComment : basic enemy variables
 /// @DnDInput : 10
 /// @DnDArgument : "expr" "10"
-/// @DnDArgument : "expr_2" "1"
 /// @DnDArgument : "expr_5" "false"
 /// @DnDArgument : "expr_8" "5"
 /// @DnDArgument : "expr_9" "3"
@@ -20,7 +19,7 @@
 /// @DnDArgument : "var_9" "turn_speed"
 current_health = 10;
 poison_remaining = 0;
-poison_cooldown = 1;
+poison_cooldown = 0;
 stun_timer = 0;
 collision_iframes = 0;
 initial_poison_tick = false;
