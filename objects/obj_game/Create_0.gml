@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 203AFAA1
-/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "expr" "true"
 /// @DnDArgument : "var" "paused"
-paused = false;
+paused = true;
 
 /// @DnDAction : YoYo Games.Miscellaneous.Set_Window_State
 /// @DnDVersion : 1
